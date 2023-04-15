@@ -1,4 +1,4 @@
-# Basic HTML Project
+# Basic CSS Project
 
 This is a simple project created to learn the basics of CSS. The project is bundled with Vite.js, which is a build tool that helps you develop and deploy web applications quickly and easily.
 
